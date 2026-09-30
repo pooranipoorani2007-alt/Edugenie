@@ -1,0 +1,54 @@
+001 body {
+    002 font-family: Arial, sans-serif;
+    003 background: #f4f7fb;
+    004 margin: 0;
+    005
+}
+
+006 .container {
+    007 max-width: 850px;
+    008 margin: 30px auto;
+    009 padding: 25px;
+    010
+}
+
+011 h1 {
+    margin-bottom: 5px;
+}
+
+012 .tagline {
+    color: #555;
+}
+
+013 section {
+    014 background: white;
+    015 padding: 20px;
+    016 margin: 18px 0;
+    017 border-radius: 12px;
+    018 box-shadow: 0 2px 8px #ddd;
+    019
+}
+
+020 input {
+    021 width: 70%;
+    022 padding: 12px;
+    023 margin-right: 8px;
+    024 border: 1px solid #bbb;
+    025 border-radius: 6px;
+    026
+}
+
+027 button {
+    028 padding: 12px 16px;
+    029 border: 0;
+    030 border-radius: 6px;
+    031 cursor: pointer;
+    032
+}
+
+033 .output {
+    034 margin-top: 15px;
+    035 padding: 15px;
+    036 background: #f8f8f8;
+    037 border-radius: 8px;
+}
